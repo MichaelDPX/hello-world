@@ -1,6 +1,6 @@
 # hello-world
 
-This repository contains a simple Java application within test package. To run the applicationon your local machine:
+This repository contains a simple Java application within test package. To run the applicationon on your local machine:
 
 1. Have JDK 1.8 environment ready
 2. Download and extract this repository
