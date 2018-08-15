@@ -46,7 +46,7 @@ public class SeatAdjustmentsCalculation {
 	 * and whether the sequence has a length at least 2 but no more than 1000.
 	 */
 	public static boolean isValidInput(String input) {
-		if (input.matches("^[UD]{2,1000}$")) {
+		if (input != null && input.matches("^[UD]{2,1000}$")) {
 			return true;
 		} else {
 			return false;
